@@ -1,0 +1,20 @@
+{
+    "Author": "Andreas Wieberneit (MSFT)",
+    "ContentSize": 2444,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/remove-a-secret-from-a-key-vault/master/Remove-KeyVaultSecret.ps1",
+    "DownloadCount": 690,
+    "Id": "Remove-a-secret-from-a-Key-e47c5e6c",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 323,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2016-4-16T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "This runbook shows how to remove a secret from a Key Vault. It requires an Azure Run As account and additional modules, see the PREREQUISITE sections in the runbook for details. The runbook will use the Run As account to authenticate against Key Vault. The Key Vault's access pol",
+    "Title": "Remove a secret from a Key Vault",
+    "UpdatedDate": "2016-4-16T00:00:00",
+    "Url": "https://github.com/azureautomation/remove-a-secret-from-a-key-vault",
+    "UserTags": "Utility, Dev / Test Environments"
+}
